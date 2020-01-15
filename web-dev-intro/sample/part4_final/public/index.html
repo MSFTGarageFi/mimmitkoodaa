@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Search for Helsinki Events</title>
+	<script>
+		function sayHello() {
+
+			var text = document.getElementById('searchText').value;
+
+			if (text == "") {
+				alert("Hmm.. maybe you want to try entering something for better results?");
+			}
+			else if (text.length < 3) {
+				alert("Maybe enter more than 3 characters?");
+			}
+			else {
+				alert("You searched for " + text);
+			}
+		}
+	</script>
+</head>
+
+<body>
+	<h1>Search for events in Helsinki</h1>
+
+	<label for="searchText">Event name</label>
+	<input type="text" id="searchText" name="searchText" />
+	<button onclick="sayHello()">Search</button>
+
+</body>
+
+</html>
