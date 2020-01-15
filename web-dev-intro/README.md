@@ -19,4 +19,4 @@ Notice that this is not the ultimate guide to web development, Node.js and Expre
 * [Intro to web development](https://btholt.github.io/intro-to-web-dev-v2/) by Brian Holt
 * [Learn web development](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web) on developer.mozilla.org
 
-Content at http://aka.ms/mimmit-koodaa
+Content at http://aka.ms/mimmitkoodaa

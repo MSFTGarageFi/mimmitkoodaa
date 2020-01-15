@@ -6,4 +6,4 @@ Ready? :ok_hand:
 
 :arrow_right: [Start from the basics](https://github.com/MSFTGarageFi/mimmitkoodaa/blob/master/web-dev-intro/README.md)
 
-Content at http://aka.ms/mimmit-koodaa
+Content at http://aka.ms/mimmitkoodaa
