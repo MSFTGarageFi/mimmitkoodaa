@@ -70,4 +70,4 @@ Wuuuuuuu!
 
 **You know what time is it?** It's time to take a breather and congratulate yourself: you've just built a fully functional web application. Doesn't do much yet, but that's what the next steps are for :)
 
-**Next :arrow_right: [Fetching information from 3rd party APIs](https://github.com/MSFTGarageFi/mimmitkoodaa/blob/master/web-dev-intro/part4_eventsAPI.md)**
+**Next :arrow_right: [Fetching information from 3rd party APIs](https://github.com/MSFTGarageFi/mimmitkoodaa/blob/master/web-dev-intro/part5_eventsAPI.md)**

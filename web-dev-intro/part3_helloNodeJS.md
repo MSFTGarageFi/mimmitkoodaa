@@ -71,4 +71,4 @@ Now to run your new app, write the following in the Terminal `node index.js`
 
 :tada::tada::tada:
 
-**Next :arrow_right: [Fetching information from 3rd party APIs](https://github.com/MSFTGarageFi/mimmitkoodaa/blob/master/web-dev-intro/part4_frontFromBack.md)**
+**Next :arrow_right: [Getting frontend from the backend](https://github.com/MSFTGarageFi/mimmitkoodaa/blob/master/web-dev-intro/part4_frontFromBack.md)**
