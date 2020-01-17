@@ -98,13 +98,13 @@ Each browser has it's own way of interepting these but thanks to [web standards]
 
 ### :bulb: Validate the input with simple if/else statements
 
-What if we want to check what the search query is, before we show the alert? Maybe we want to tell the user it doesn't really make sense to search for 'Helsinki' when searching for events in Helsinki, as that's pretty much all of them.
+What if we want to check what the search query is, before we show the alert? Maybe we want to tell the user that they shouldn't submit an empty query, as that will return all the events?
 
 Lets explore vaiable 
 
 * We will create a variable where we store the value of our `searchQuery` input field. We store it in a variable, so we don't have to search for it every time from the document and can have a "copy" of the value in the variable `text`
-* Check if the user is searching for "Helsinki" and if so, advise them to search for something else.
-* If the search query isn't that, we will show them what they searched for.
+* Check if the user's query has no value and if so, advise them to search for something instead of nothing.
+* If the search query isn't empty, we will show them what they searched for.
 
 ```javascript
 <script>
