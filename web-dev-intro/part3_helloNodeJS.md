@@ -44,7 +44,8 @@ Select the right version for your OS (Windows or macOs)
 >-	Download the Windows Binary zip package [32bit](https://nodejs.org/dist/v12.14.1/node-v12.14.1-win-x86.zip) or [64bit](https://nodejs.org/dist/v12.14.1/node-v12.14.1-win-x64.zip) (if you are not sure, choose the 32bit one)
 >-	Open and extract the package to a folder on your desktop
 >-	Press Win+R to open a “Run” dialog and then execute this command: 
->	rundll32 sysdm.cpl,EditEnvironmentVariables
+>	
+>        rundll32 sysdm.cpl,EditEnvironmentVariables
 >-	Click on Path and press Edit
 >-	Press New and copy the address of the directory where you extracted the files
 
